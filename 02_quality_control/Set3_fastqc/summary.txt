@@ -1,0 +1,10 @@
+PASS	Basic Statistics	Set3.fq
+PASS	Per base sequence quality	Set3.fq
+PASS	Per sequence quality scores	Set3.fq
+PASS	Per base sequence content	Set3.fq
+FAIL	Per sequence GC content	Set3.fq
+PASS	Per base N content	Set3.fq
+PASS	Sequence Length Distribution	Set3.fq
+WARN	Sequence Duplication Levels	Set3.fq
+WARN	Overrepresented sequences	Set3.fq
+PASS	Adapter Content	Set3.fq
