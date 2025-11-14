@@ -1,0 +1,53 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BRUC_00001	gene	153				
+BRUC_00001	CDS	153				hypothetical protein
+BRUC_00002	gene	960	gadA			
+BRUC_00002	CDS	960	gadA	4.1.1.15	COG0076	Glutamate decarboxylase alpha
+BRUC_00003	gene	411	gadB			
+BRUC_00003	CDS	411	gadB	4.1.1.15	COG0076	Glutamate decarboxylase beta
+BRUC_00004	gene	1281	gadC			
+BRUC_00004	CDS	1281	gadC		COG0531	Glutamate/gamma-aminobutyrate antiporter
+BRUC_00005	gene	954	glsA1			
+BRUC_00005	CDS	954	glsA1	3.5.1.2	COG2066	Glutaminase 1
+BRUC_00006	gene	345	hdeA			
+BRUC_00006	CDS	345	hdeA			putative acid stress chaperone HdeA
+BRUC_00007	gene	165				
+BRUC_00007	CDS	165				hypothetical protein
+BRUC_00008	gene	1593	pdeB			
+BRUC_00008	CDS	1593	pdeB	3.1.4.52	COG4943	putative cyclic di-GMP phosphodiesterase PdeB
+BRUC_00009	gene	888	gcvA			
+BRUC_00009	CDS	888	gcvA			Glycine cleavage system transcriptional activator
+BRUC_00010	gene	1416	algA			
+BRUC_00010	CDS	1416	algA		COG0662	Alginate biosynthesis protein AlgA
+BRUC_00011	gene	1434	glmM			
+BRUC_00011	CDS	1434	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+BRUC_00012	gene	1107				
+BRUC_00012	CDS	1107		3.4.11.-	COG3191	putative aminopeptidase
+BRUC_00013	gene	1356	clcA			
+BRUC_00013	CDS	1356	clcA		COG0038	H(+)/Cl(-) exchange transporter ClcA
+BRUC_00014	gene	1494	guaB			
+BRUC_00014	CDS	1494	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+BRUC_00015	gene	1074				
+BRUC_00015	CDS	1074				hypothetical protein
+BRUC_00016	gene	954	oxyR			
+BRUC_00016	CDS	954	oxyR			Hydrogen peroxide-inducible genes activator
+BRUC_00017	gene	1500	katA			
+BRUC_00017	CDS	1500	katA	1.11.1.6		Catalase
+BRUC_00018	gene	174				
+BRUC_00018	CDS	174				hypothetical protein
+BRUC_00019	gene	627	dsbB			
+BRUC_00019	CDS	627	dsbB			Disulfide bond formation protein B
+BRUC_00020	gene	1290	rsmB			
+BRUC_00020	CDS	1290	rsmB	2.1.1.176		Ribosomal RNA small subunit methyltransferase B
+BRUC_00021	gene	576				
+BRUC_00021	CDS	576				hypothetical protein
+BRUC_00022	gene	633	mqnB			
+BRUC_00022	CDS	633	mqnB	3.2.2.26		Futalosine hydrolase
+BRUC_00023	gene	1563	guaA			
+BRUC_00023	CDS	1563	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+BRUC_00024	gene	1257	intA			
+BRUC_00024	CDS	1257	intA		COG0582	Prophage integrase IntA
+BRUC_00025	gene	231				
+BRUC_00025	CDS	231				hypothetical protein
+BRUC_00026	gene	1059				
+BRUC_00026	CDS	1059				hypothetical protein

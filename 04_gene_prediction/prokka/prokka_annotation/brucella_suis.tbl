@@ -1,0 +1,235 @@
+>Feature NODE_1_length_30000_cov_158.511780
+41	193	gene
+			locus_tag	BRUC_00001
+41	193	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BRUC_00001
+			product	hypothetical protein
+1221	2180	gene
+			gene	gadA
+			locus_tag	BRUC_00002
+1221	2180	CDS
+			EC_number	4.1.1.15
+			db_xref	COG:COG0076
+			gene	gadA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69908
+			locus_tag	BRUC_00002
+			product	Glutamate decarboxylase alpha
+2205	2615	gene
+			gene	gadB
+			locus_tag	BRUC_00003
+2205	2615	CDS
+			EC_number	4.1.1.15
+			db_xref	COG:COG0076
+			gene	gadB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69910
+			locus_tag	BRUC_00003
+			product	Glutamate decarboxylase beta
+2942	4222	gene
+			gene	gadC
+			locus_tag	BRUC_00004
+2942	4222	CDS
+			db_xref	COG:COG0531
+			gene	gadC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O30417
+			locus_tag	BRUC_00004
+			product	Glutamate/gamma-aminobutyrate antiporter
+4258	5211	gene
+			gene	glsA1
+			locus_tag	BRUC_00005
+4258	5211	CDS
+			EC_number	3.5.1.2
+			db_xref	COG:COG2066
+			gene	glsA1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77454
+			locus_tag	BRUC_00005
+			product	Glutaminase 1
+5359	5703	gene
+			gene	hdeA
+			locus_tag	BRUC_00006
+5359	5703	CDS
+			gene	hdeA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2YK18
+			locus_tag	BRUC_00006
+			product	putative acid stress chaperone HdeA
+6303	6467	gene
+			locus_tag	BRUC_00007
+6303	6467	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BRUC_00007
+			product	hypothetical protein
+8136	6544	gene
+			gene	pdeB
+			locus_tag	BRUC_00008
+8136	6544	CDS
+			EC_number	3.1.4.52
+			db_xref	COG:COG4943
+			gene	pdeB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77473
+			locus_tag	BRUC_00008
+			product	putative cyclic di-GMP phosphodiesterase PdeB
+8926	9813	gene
+			gene	gcvA
+			locus_tag	BRUC_00009
+8926	9813	CDS
+			gene	gcvA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9F6
+			locus_tag	BRUC_00009
+			product	Glycine cleavage system transcriptional activator
+11349	9934	gene
+			gene	algA
+			locus_tag	BRUC_00010
+11349	9934	CDS
+			db_xref	COG:COG0662
+			gene	algA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07874
+			locus_tag	BRUC_00010
+			product	Alginate biosynthesis protein AlgA
+12779	11346	gene
+			gene	glmM
+			locus_tag	BRUC_00011
+12779	11346	CDS
+			EC_number	5.4.2.10
+			db_xref	COG:COG1109
+			gene	glmM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34824
+			locus_tag	BRUC_00011
+			product	Phosphoglucosamine mutase
+14005	12899	gene
+			locus_tag	BRUC_00012
+14005	12899	CDS
+			EC_number	3.4.11.-
+			db_xref	COG:COG3191
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WM23
+			locus_tag	BRUC_00012
+			product	putative aminopeptidase
+15384	14029	gene
+			gene	clcA
+			locus_tag	BRUC_00013
+15384	14029	CDS
+			db_xref	COG:COG0038
+			gene	clcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8ZRP8
+			locus_tag	BRUC_00013
+			product	H(+)/Cl(-) exchange transporter ClcA
+15579	17072	gene
+			gene	guaB
+			locus_tag	BRUC_00014
+15579	17072	CDS
+			EC_number	1.1.1.205
+			db_xref	COG:COG0516
+			gene	guaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21879
+			locus_tag	BRUC_00014
+			product	Inosine-5'-monophosphate dehydrogenase
+18350	17277	gene
+			locus_tag	BRUC_00015
+18350	17277	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BRUC_00015
+			product	hypothetical protein
+19372	18419	gene
+			gene	oxyR
+			locus_tag	BRUC_00016
+19372	18419	CDS
+			gene	oxyR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ACQ4
+			locus_tag	BRUC_00016
+			product	Hydrogen peroxide-inducible genes activator
+19542	21041	gene
+			gene	katA
+			locus_tag	BRUC_00017
+19542	21041	CDS
+			EC_number	1.11.1.6
+			gene	katA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A327
+			locus_tag	BRUC_00017
+			product	Catalase
+21172	21345	gene
+			locus_tag	BRUC_00018
+21172	21345	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BRUC_00018
+			product	hypothetical protein
+21374	22000	gene
+			gene	dsbB
+			locus_tag	BRUC_00019
+21374	22000	CDS
+			gene	dsbB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00286
+			locus_tag	BRUC_00019
+			product	Disulfide bond formation protein B
+22177	23466	gene
+			gene	rsmB
+			locus_tag	BRUC_00020
+22177	23466	CDS
+			EC_number	2.1.1.176
+			gene	rsmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01856
+			locus_tag	BRUC_00020
+			product	Ribosomal RNA small subunit methyltransferase B
+23637	24212	gene
+			locus_tag	BRUC_00021
+23637	24212	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BRUC_00021
+			product	hypothetical protein
+24209	24841	gene
+			gene	mqnB
+			locus_tag	BRUC_00022
+24209	24841	CDS
+			EC_number	3.2.2.26
+			gene	mqnB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00991
+			locus_tag	BRUC_00022
+			product	Futalosine hydrolase
+24950	26512	gene
+			gene	guaA
+			locus_tag	BRUC_00023
+24950	26512	CDS
+			EC_number	6.3.5.2
+			db_xref	COG:COG0518
+			gene	guaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04079
+			locus_tag	BRUC_00023
+			product	GMP synthase [glutamine-hydrolyzing]
+26773	28029	gene
+			gene	intA
+			locus_tag	BRUC_00024
+26773	28029	CDS
+			db_xref	COG:COG0582
+			gene	intA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P32053
+			locus_tag	BRUC_00024
+			product	Prophage integrase IntA
+28314	28544	gene
+			locus_tag	BRUC_00025
+28314	28544	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BRUC_00025
+			product	hypothetical protein
+28625	29683	gene
+			locus_tag	BRUC_00026
+28625	29683	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BRUC_00026
+			product	hypothetical protein

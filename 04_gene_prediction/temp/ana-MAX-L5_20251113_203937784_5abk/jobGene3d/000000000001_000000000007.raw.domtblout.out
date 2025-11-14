@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      data/gene3d/4.3.0/gene3d_main.hmm
+# Target file:     /home/ana/Desktop/Brucelosis_TP_Integrador/04_gene_prediction/temp/ana-MAX-L5_20251113_203937784_5abk//jobGene3d/000000000001_000000000007.fasta
+# Option settings: hmmsearch -o /home/ana/Desktop/Brucelosis_TP_Integrador/04_gene_prediction/temp/ana-MAX-L5_20251113_203937784_5abk//jobGene3d/000000000001_000000000007.raw.out --domtblout /home/ana/Desktop/Brucelosis_TP_Integrador/04_gene_prediction/temp/ana-MAX-L5_20251113_203937784_5abk//jobGene3d/000000000001_000000000007.raw.domtblout.out -E 0.001 -Z 65245 --cpu 1 data/gene3d/4.3.0/gene3d_main.hmm /home/ana/Desktop/Brucelosis_TP_Integrador/04_gene_prediction/temp/ana-MAX-L5_20251113_203937784_5abk//jobGene3d/000000000001_000000000007.fasta 
+# Current dir:     /home/ana/anaconda3/envs/predYanotAyAS/share/InterProScan
+# Date:            Thu Nov 13 20:40:00 2025
+# [ok]

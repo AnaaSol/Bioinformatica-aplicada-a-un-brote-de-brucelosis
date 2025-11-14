@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      data/hamap/2021_04/hamap.hmm.lib
+# Target file:     /home/ana/Desktop/Brucelosis_TP_Integrador/04_gene_prediction/temp/ana-MAX-L5_20251113_203937784_5abk//jobHAMAP/000000000001_000000000007.fasta
+# Option settings: hmmsearch -o /home/ana/Desktop/Brucelosis_TP_Integrador/04_gene_prediction/temp/ana-MAX-L5_20251113_203937784_5abk//jobHAMAP/000000000001_000000000007.raw.out --tblout /home/ana/Desktop/Brucelosis_TP_Integrador/04_gene_prediction/temp/ana-MAX-L5_20251113_203937784_5abk//jobHAMAP/000000000001_000000000007.raw.tblout.out -E 100 --domE 100 --incE 100 --incdomE 100 --cpu 1 data/hamap/2021_04/hamap.hmm.lib /home/ana/Desktop/Brucelosis_TP_Integrador/04_gene_prediction/temp/ana-MAX-L5_20251113_203937784_5abk//jobHAMAP/000000000001_000000000007.fasta 
+# Current dir:     /home/ana/anaconda3/envs/predYanotAyAS/share/InterProScan
+# Date:            Thu Nov 13 20:40:01 2025
+# [ok]

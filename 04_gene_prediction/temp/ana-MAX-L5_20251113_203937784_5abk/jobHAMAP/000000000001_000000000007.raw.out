@@ -1,0 +1,71 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/hamap/2021_04/hamap.hmm.lib
+# target sequence database:        /home/ana/Desktop/Brucelosis_TP_Integrador/04_gene_prediction/temp/ana-MAX-L5_20251113_203937784_5abk//jobHAMAP/000000000001_000000000007.fasta
+# output directed to file:         /home/ana/Desktop/Brucelosis_TP_Integrador/04_gene_prediction/temp/ana-MAX-L5_20251113_203937784_5abk//jobHAMAP/000000000001_000000000007.raw.out
+# per-seq hits tabular output:     /home/ana/Desktop/Brucelosis_TP_Integrador/04_gene_prediction/temp/ana-MAX-L5_20251113_203937784_5abk//jobHAMAP/000000000001_000000000007.raw.tblout.out
+# sequence reporting threshold:    E-value <= 100
+# domain reporting threshold:      E-value <= 100
+# sequence inclusion threshold:    E-value <= 100
+# domain inclusion threshold:      E-value <= 100
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       MF_00456  [M=368]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (368 nodes)
+Target sequences:                          7  (1137 residues searched)
+Passed MSV filter:                         1  (0.142857); expected 0.1 (0.02)
+Passed bias filter:                        0  (0); expected 0.1 (0.02)
+Passed Vit filter:                         0  (0); expected 0.0 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                  7  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: 502.11
+//
+Query:       MF_01458  [M=666]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (666 nodes)
+Target sequences:                          7  (1137 residues searched)
+Passed MSV filter:                         0  (0); expected 0.1 (0.02)
+Passed bias filter:                        0  (0); expected 0.1 (0.02)
+Passed Vit filter:                         0  (0); expected 0.0 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                  7  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: 656.87
+//
+[ok]

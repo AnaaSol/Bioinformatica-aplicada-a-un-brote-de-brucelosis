@@ -1,0 +1,5 @@
+organism: Brucella suis hybrid_assembly 
+contigs: 1
+bases: 30000
+CDS: 26
+gene: 26

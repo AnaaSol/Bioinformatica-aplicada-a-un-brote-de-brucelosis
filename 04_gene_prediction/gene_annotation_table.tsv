@@ -1,0 +1,27 @@
+Locus_Tag	Gene	Product	Length_bp	EC_Number	COG	Validation	BLAST_Refinement
+BRUC_00001	-	hypothetical protein	153	-	-	Dubious	No homologs found
+BRUC_00002	gadA	Glutamate decarboxylase alpha	960	4.1.1.15	COG0076	Annotated	-
+BRUC_00003	gadB	Glutamate decarboxylase beta	411	4.1.1.15	COG0076	Annotated	-
+BRUC_00004	gadC	Glutamate/gamma-aminobutyrate antiporter	1281	-	COG0531	Annotated	-
+BRUC_00005	glsA1	Glutaminase 1	954	3.5.1.2	COG2066	Annotated	-
+BRUC_00006	hdeA	putative acid stress chaperone HdeA	345	-	-	Annotated	-
+BRUC_00007	-	hypothetical protein	165	-	-	Validated	Conserved in B. suis (WP_002966247.1)
+BRUC_00008	pdeB	putative cyclic di-GMP phosphodiesterase PdeB	1593	3.1.4.52	COG4943	Annotated	-
+BRUC_00009	gcvA	Glycine cleavage system transcriptional activator	888	-	-	Annotated	-
+BRUC_00010	algA	Alginate biosynthesis protein AlgA	1416	-	COG0662	Annotated	-
+BRUC_00011	glmM	Phosphoglucosamine mutase	1434	5.4.2.10	COG1109	Annotated	-
+BRUC_00012	-	putative aminopeptidase	1107	3.4.11.-	COG3191	Annotated	-
+BRUC_00013	clcA	H(+)/Cl(-) exchange transporter ClcA	1356	-	COG0038	Annotated	-
+BRUC_00014	guaB	Inosine-5'-monophosphate dehydrogenase	1494	1.1.1.205	COG0516	Annotated	-
+BRUC_00015	-	hypothetical protein	1074	-	-	Validated	Conserved in B. suis (WP_006191813.1)
+BRUC_00016	oxyR	Hydrogen peroxide-inducible genes activator	954	-	-	Annotated	-
+BRUC_00017	katA	Catalase	1500	1.11.1.6	-	Annotated	-
+BRUC_00018	-	hypothetical protein	174	-	-	Validated	Conserved in B. suis (WP_002969359.1)
+BRUC_00019	dsbB	Disulfide bond formation protein B	627	-	-	Annotated	-
+BRUC_00020	rsmB	Ribosomal RNA small subunit methyltransferase B	1290	2.1.1.176	-	Annotated	-
+BRUC_00021	-	hypothetical protein	576	-	-	Partial	Partial homology (63.9%)
+BRUC_00022	mqnB	Futalosine hydrolase	633	3.2.2.26	-	Annotated	-
+BRUC_00023	guaA	GMP synthase [glutamine-hydrolyzing]	1563	6.3.5.2	COG0518	Annotated	-
+BRUC_00024	intA	Prophage integrase IntA	1257	-	COG0582	Annotated	-
+BRUC_00025	-	hypothetical protein	231	-	-	Validated	Conserved in B. suis (WP_006191822.1)
+BRUC_00026	-	hypothetical protein	1059	-	-	Validated	Conserved in B. suis (WP_006073479.1)
