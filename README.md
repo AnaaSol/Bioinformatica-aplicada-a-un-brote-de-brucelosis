@@ -1,6 +1,6 @@
 # Bioinformatica aplicada a un brote de brucelosis
 
-Análisis de un brote de Brucella suis en Argentina (Diciembre 2024). El proyecto involucra ensamblado genómico, anotación y análisis comparativo usando datos de secuenciación Sanger e Illumina para caracterizar el patógeno y desarrollar herramientas diagnósticas.
+Análisis de un brote de Brucella suis en Argentina. El proyecto involucra ensamblado genómico, anotación y análisis comparativo usando datos de secuenciación Sanger e Illumina para caracterizar el patógeno y desarrollar herramientas diagnósticas.
 
 ### ESCENARIO
 
@@ -19,9 +19,9 @@ Investigar y documentar:
   - Impacto en salud pública y consecuencias económicas
 
 Secuencias Sanger:
-  - Procesar electroferogramas (formato ab1)
+  - Procesar electroferogramas (formato scf)
   - Eliminar regiones de baja calidad y contaminación de vector
-  - Herramientas: Phred, Lucy2
+  - Herramientas: pregap4
 
 Lecturas Illumina:
   - Solo evaluación de calidad (NO procesar)
@@ -29,24 +29,24 @@ Lecturas Illumina:
 
 Ensamblado Sanger:
   - Generar contig(s) y reportar longitud/cobertura
-  - Herramienta: CAP3
+  - Herramienta: gap4
 
 Ensamblado híbrido:
   - Combinar contigs Sanger + lecturas Illumina
-  - Herramienta: SPAdes (modo --trusted-contigs)
+  - Herramienta: SPAdes 
   - Calcular tamaño del genoma y %GC
   - Comparar con B. suis de referencia reportado
 
 Predicción de genes y anotación:
   - Predicción de genes ab initio
-  - Pipeline de anotación integrado (ej: Prokka, RAST)
-  - Visualización en navegador de genomas (Artemis/IGV)
+  - Pipeline de anotación integrado (Glimmer, Prokka)
+  - Visualización en navegador de genomas (Artemis)
   - Refinamiento de anotación funcional vía BLAST + dominios conservados
   - Generar tabla gen-función
 
 Análisis comparativo: Seleccionar una proteína y realizar:
-  - PSI-BLAST: 3 iteraciones, top 10 hits de otras especies
-  - Alineamiento Múltiple: Clustal X (tu proteína + 10 hits)
+  - PSI-BLAST: 3 iteraciones, top 10 hits 
+  - Alineamiento Múltiple: Clustal X (proteína KatA + 10 hits)
   - Análisis de Dominios: InterPro para dominios conservados y términos GO
   - Logo de Secuencia: WebLogo para regiones conservadas
   - Árbol Filogenético: Construir y analizar relaciones evolutivas de B. suis
